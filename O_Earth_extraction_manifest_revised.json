@@ -1,0 +1,21 @@
+{
+  "mu_C_graphite": -29.62631578947369,
+  "sigma_C_graphite": 8.141511134626406,
+  "mu_C_calcite": 0.9824833333333332,
+  "sigma_C_calcite": 0.5,
+  "delta13C": -30.608799122807024,
+  "delta13_sigma": 8.14151144792281,
+  "n_met_nodes": 29.0,
+  "n_met_edges": 56.0,
+  "avg_degree": 3.862068966,
+  "degree_std": 1.7098156005122602,
+  "clustering_mean": 0.139408867,
+  "modularity_Q": 0.495626822,
+  "avg_path_length": 2.9497354497354498,
+  "n_hubs": 0,
+  "energy_currency_count": 0,
+  "triangles": 6.0,
+  "glycolysis_present": 1,
+  "tca_present": 0,
+  "ppp_present": 1
+}
